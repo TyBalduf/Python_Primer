@@ -6,5 +6,5 @@ A Binder-compatible repo with various Python tutorials.
 
 Access this Binder at the following URL:
 
-https://mybinder.org/v2/gh/TyBalduf/Python\_Primer/master
+https://mybinder.org/v2/gh/TyBalduf/Python_Primer/master
 
